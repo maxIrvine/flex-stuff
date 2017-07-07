@@ -68,14 +68,16 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 1400px;
-    height: 739px;
-    padding: 5px;
+    width: 1200px;
+    height: 634px;
+    padding: 10px;
 }
 
 .split-photo {
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
+    padding: 10px
+
 }
